@@ -6,7 +6,7 @@ Personal blog with minimalistic design.
 ![Demo](/assets/view_post.gif)
 
 ## Deployed app
-Add deployed app here
+https://atri-apps.github.io/personal_blog/
 
 ## How to use this app?
 

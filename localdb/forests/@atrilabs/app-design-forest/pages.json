@@ -4,8 +4,8 @@
     "route": "/"
   },
   "62ce5041-a836-4bb7-aecc-9dba564d10c9": {
-    "name": "view_post",
-    "route": "/view_post"
+    "name": "view_blog",
+    "route": "/view_blog"
   },
   "1b4c95b5-e785-4e63-924b-9ff51605ce14": {
     "name": "new_page",

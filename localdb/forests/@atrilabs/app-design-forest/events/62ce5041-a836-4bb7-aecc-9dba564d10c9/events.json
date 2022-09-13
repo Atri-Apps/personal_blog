@@ -20365,5 +20365,16 @@
       }
     },
     "id": "8327a1ef-6765-4b35-b07e-1afe55b4b42b"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "open": false
+        }
+      }
+    },
+    "id": "db9cc150-7d85-4983-8e93-0f40004b7f3f"
   }
 ]

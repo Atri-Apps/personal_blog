@@ -20343,5 +20343,27 @@
   {
     "type": "DELETE$$@atrilabs/app-design-forest/lib/componentTree.js",
     "id": "83805134-e215-4cc5-a67a-2e352b33d7e2"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "Look at where you are. Look at where you started."
+        }
+      }
+    },
+    "id": "77261d24-fd78-4d1f-9b8f-bb49f89b1b71"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "backgroundColor": "#D1D5DB"
+        }
+      }
+    },
+    "id": "8327a1ef-6765-4b35-b07e-1afe55b4b42b"
   }
 ]

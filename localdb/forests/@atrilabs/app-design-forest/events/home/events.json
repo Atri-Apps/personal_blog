@@ -19112,5 +19112,104 @@
       }
     },
     "id": "3284f058-2568-480f-887d-90e05cf04921"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "slice": {
+      "property": {
+        "callbacks": {
+          "onClick": [
+            {
+              "sendEventData": true
+            }
+          ]
+        }
+      }
+    },
+    "id": "2db7bb39-e921-45af-91e0-b29815cdd45c"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "slice": {
+      "property": {
+        "callbacks": {
+          "onClick": [
+            {
+              "navigate": {
+                "type": "internal",
+                "url": "/view_blog"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "id": "2db7bb39-e921-45af-91e0-b29815cdd45c"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "slice": {
+      "property": {
+        "callbacks": {
+          "onClick": [
+            {
+              "sendEventData": true
+            }
+          ]
+        }
+      }
+    },
+    "id": "494c7828-8eb2-43e1-a6f0-26c131e5c939"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "slice": {
+      "property": {
+        "callbacks": {
+          "onClick": [
+            {
+              "navigate": {
+                "type": "internal",
+                "url": "/view_blog"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "id": "494c7828-8eb2-43e1-a6f0-26c131e5c939"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "slice": {
+      "property": {
+        "callbacks": {
+          "onClick": [
+            {
+              "sendEventData": true
+            }
+          ]
+        }
+      }
+    },
+    "id": "680f2f42-6de8-4048-9e3f-f48aab2e4023"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "slice": {
+      "property": {
+        "callbacks": {
+          "onClick": [
+            {
+              "navigate": {
+                "type": "internal",
+                "url": "/view_blog"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "id": "680f2f42-6de8-4048-9e3f-f48aab2e4023"
   }
 ]

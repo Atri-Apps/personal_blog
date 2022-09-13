@@ -1,6 +1,7 @@
-# Atri-Apps/personal_blog
+# Personal blog website
 
 Personal blog with minimalistic design. 
+- Frontend, backend and deployment accomplished using Atri framework
 
 ## Demo
 ![Demo](/assets/view_post.gif)

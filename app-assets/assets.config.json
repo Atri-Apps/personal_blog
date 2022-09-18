@@ -31,5 +31,8 @@
   },
   "logo_only.svg": {
     "mime": "image/svg+xml"
+  },
+  "van_gogh.jpeg": {
+    "mime": "image/jpeg"
   }
 }

@@ -1,3 +1,4 @@
 atri_app/
 .idea/
 controllers/**/atri.py
+.DS_Store

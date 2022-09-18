@@ -4,7 +4,7 @@ Personal blog with minimalist design.
 - Frontend, backend and deployment accomplished using Atri framework
 
 ## Demo
-![Demo](/assets/view_post.gif)
+![Demo](readme_assets/demo.gif)
 
 ## Deployed app
 https://atri-apps.github.io/personal_blog/
@@ -36,7 +36,7 @@ atri start
 
 💬 Join our [Slack community](https://join.slack.com/t/atricommunity/shared_invite/zt-1e756m1at-bZBxngvw7KWWO0riI4pc0w)
 
-❓ Share any [bugs](https://github.com/Atri-Labs/atrilabs-engine/issues) or ask any question in [Discussions](https://github.com/Atri-Labs/atrilabs-engine/discussions)
+❓ Share any [bugs](https://github.com/Atri-Apps/personal_blog/issues) or ask any question in [Discussions](https://github.com/Atri-Apps/personal_blog/discussions)
 
 🎥 Watch along on [YouTube](https://www.youtube.com/channel/UC1uR2Q5x_8olWS_Y4PdK1Bw)
 

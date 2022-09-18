@@ -1,6 +1,6 @@
 # Personal blog website
 
-Personal blog with minimalistic design. 
+Personal blog with minimalist design. 
 - Frontend, backend and deployment accomplished using Atri framework
 
 ## Demo

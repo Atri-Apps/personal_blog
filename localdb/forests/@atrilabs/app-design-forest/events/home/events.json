@@ -20444,5 +20444,1412 @@
       }
     },
     "id": "3284f058-2568-480f-887d-90e05cf04921"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "breakpoints": {
+        "478": {
+          "property": {
+            "styles": {
+              "justifyContent": "center"
+            }
+          }
+        }
+      }
+    },
+    "id": "a782d59b-3eeb-4b2a-9ddc-f50e5d644c6f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "breakpoints": {
+        "478": {
+          "property": {
+            "styles": {
+              "alignItems": "center"
+            }
+          }
+        }
+      }
+    },
+    "id": "a782d59b-3eeb-4b2a-9ddc-f50e5d644c6f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "breakpoints": {
+        "478": {
+          "property": {
+            "styles": {
+              "alignItems": "center"
+            }
+          }
+        }
+      }
+    },
+    "id": "06f096b3-364c-4eb8-909a-fb398603f30c"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "breakpoints": {
+        "478": {
+          "property": {
+            "styles": {
+              "alignItems": "center"
+            }
+          }
+        }
+      }
+    },
+    "id": "671b464c-b290-4dab-b072-7574c1941d3c"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "Van Gogh: The and vitality of his works"
+        }
+      }
+    },
+    "id": "1cb3a20a-4c10-407d-8d1f-93bebd372780"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "Van Gogh: The vitality of his works"
+        }
+      }
+    },
+    "id": "1cb3a20a-4c10-407d-8d1f-93bebd372780"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "From the bright colours of ‘Sunflowers' to his battles with depression"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "T"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "Th"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "The"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "Th "
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "Th r"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "Th ra"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "Th rad"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "Th radi"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "Th radic"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "Th radica"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "Th radical"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "Th radical "
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "Th radical"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "Th radica"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "Th radic"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "Th radi"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "Th rad"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "Th ra"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "Th r"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "Th "
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "Th"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "The"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "The "
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "The r"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "The ra"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "The rad"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "The radi"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "The radic"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "The radica"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "The radical"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "The radical "
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "The radical c"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "The radical co"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "The radical col"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "The radical colo"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "The radical color"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "The radical colors"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "The radical colors "
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "The radical colors o"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "The radical colors of"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "The radical colors of "
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "The radical colors of t"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "The radical colors of th"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "The radical colors of the"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "The radical colors of the "
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "The radical colors of the '"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "The radical colors of the 'S"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "The radical colors of the 'Su"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "The radical colors of the 'Sun"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "The radical colors of the 'Sunf"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "The radical colors of the 'Sunfl"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "The radical colors of the 'Sunflo"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "The radical colors of the 'Sunflow"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "The radical colors of the 'Sunflowe"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "The radical colors of the 'Sunflower"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "The radical colors of the 'Sunflowers"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "The radical colors of the 'Sunflowers'"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "The radical colors of the 'Sunflowers' "
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "The radical colors of the 'Sunflowers' a"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "The radical colors of the 'Sunflowers' an"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "The radical colors of the 'Sunflowers' and"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "The radical colors of the 'Sunflowers' and "
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "S"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "Su"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "Sun"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "Sunf"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "Sunfl"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "Sunflo"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "Sunflow"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "Sunflowe"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "Sunflower"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "Sunflowers"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "Sunflowers,"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "Sunflowers, "
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "Sunflowers, l"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "Sunflowers, le"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "Sunflowers, let"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "Sunflowers, lett"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "Sunflowers, lette"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "Sunflowers, letter"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "Sunflowers, letters"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "Sunflowers, letters "
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "Sunflowers, letters a"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "Sunflowers, letters an"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "Sunflowers, letters and"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "Sunflowers, letters and "
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "Sunflowers, letters and l"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "Sunflowers, letters and li"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "Sunflowers, letters and lif"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "Sunflowers, letters and life"
+        }
+      }
+    },
+    "id": "49f101be-c886-40c5-8ca5-c1255e45845f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "Rivalry and collaboration during Renaissance "
+        }
+      }
+    },
+    "id": "507222de-9b47-48b9-8d1f-ef1d54eaf820"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "Rivalry and collaboration during Renaissance"
+        }
+      }
+    },
+    "id": "507222de-9b47-48b9-8d1f-ef1d54eaf820"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "Rivalry & collaboration during Renaissance"
+        }
+      }
+    },
+    "id": "507222de-9b47-48b9-8d1f-ef1d54eaf820"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "breakpoints": {
+        "991": {
+          "property": {
+            "styles": {
+              "width": "8px"
+            }
+          }
+        }
+      }
+    },
+    "id": "4ad73459-04e1-422a-bb4a-6c0f1b726722"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "breakpoints": {
+        "991": {
+          "property": {
+            "styles": {
+              "width": "80px"
+            }
+          }
+        }
+      }
+    },
+    "id": "4ad73459-04e1-422a-bb4a-6c0f1b726722"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "breakpoints": {
+        "991": {
+          "property": {
+            "styles": {
+              "width": "80%"
+            }
+          }
+        }
+      }
+    },
+    "id": "4ad73459-04e1-422a-bb4a-6c0f1b726722"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "breakpoints": {
+        "991": {
+          "property": {
+            "styles": {
+              "width": "=%"
+            }
+          }
+        }
+      }
+    },
+    "id": "4ad73459-04e1-422a-bb4a-6c0f1b726722"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "breakpoints": {
+        "991": {
+          "property": {
+            "styles": {
+              "width": ""
+            }
+          }
+        }
+      }
+    },
+    "id": "4ad73459-04e1-422a-bb4a-6c0f1b726722"
+  },
+  {
+    "id": "4e8f8525-e77a-4d44-945a-694ddf6baed3",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "styles": {
+          "display": "flex"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "refId": "4e0fe083-73e8-4cb6-9c02-42462b070554",
+    "childId": "4e8f8525-e77a-4d44-945a-694ddf6baed3"
+  },
+  {
+    "id": "bda9882e-ffcb-4461-abcc-1706b092723e",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {}
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "refId": "4e0fe083-73e8-4cb6-9c02-42462b070554",
+    "childId": "bda9882e-ffcb-4461-abcc-1706b092723e"
+  },
+  {
+    "id": "4e0fe083-73e8-4cb6-9c02-42462b070554",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "meta": {
+      "pkg": "@atrilabs/react-component-manifests",
+      "key": "Flex",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema"
+    },
+    "state": {
+      "parent": {
+        "id": "body",
+        "index": 64
+      }
+    }
+  },
+  {
+    "id": "4e0fe083-73e8-4cb6-9c02-42462b070554",
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "alias": "Flex188"
+    }
+  },
+  {
+    "type": "DELETE$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "id": "4e0fe083-73e8-4cb6-9c02-42462b070554"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "breakpoints": {
+        "767": {
+          "property": {
+            "styles": {
+              "width": ""
+            }
+          }
+        }
+      }
+    },
+    "id": "a782d59b-3eeb-4b2a-9ddc-f50e5d644c6f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "breakpoints": {
+        "767": {
+          "property": {
+            "styles": {
+              "width": "8px"
+            }
+          }
+        }
+      }
+    },
+    "id": "a782d59b-3eeb-4b2a-9ddc-f50e5d644c6f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "breakpoints": {
+        "767": {
+          "property": {
+            "styles": {
+              "width": "80px"
+            }
+          }
+        }
+      }
+    },
+    "id": "a782d59b-3eeb-4b2a-9ddc-f50e5d644c6f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "breakpoints": {
+        "767": {
+          "property": {
+            "styles": {
+              "width": "80%"
+            }
+          }
+        }
+      }
+    },
+    "id": "a782d59b-3eeb-4b2a-9ddc-f50e5d644c6f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "breakpoints": {
+        "767": {
+          "property": {
+            "styles": {
+              "width": "8px"
+            }
+          }
+        }
+      }
+    },
+    "id": "06f096b3-364c-4eb8-909a-fb398603f30c"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "breakpoints": {
+        "767": {
+          "property": {
+            "styles": {
+              "width": "80px"
+            }
+          }
+        }
+      }
+    },
+    "id": "06f096b3-364c-4eb8-909a-fb398603f30c"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "breakpoints": {
+        "767": {
+          "property": {
+            "styles": {
+              "width": "80%"
+            }
+          }
+        }
+      }
+    },
+    "id": "06f096b3-364c-4eb8-909a-fb398603f30c"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "breakpoints": {
+        "767": {
+          "property": {
+            "styles": {
+              "width": "8px"
+            }
+          }
+        }
+      }
+    },
+    "id": "671b464c-b290-4dab-b072-7574c1941d3c"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "breakpoints": {
+        "767": {
+          "property": {
+            "styles": {
+              "width": "80px"
+            }
+          }
+        }
+      }
+    },
+    "id": "671b464c-b290-4dab-b072-7574c1941d3c"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "breakpoints": {
+        "767": {
+          "property": {
+            "styles": {
+              "width": "80%"
+            }
+          }
+        }
+      }
+    },
+    "id": "671b464c-b290-4dab-b072-7574c1941d3c"
   }
 ]

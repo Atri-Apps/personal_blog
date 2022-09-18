@@ -34,5 +34,11 @@
   },
   "van_gogh.jpeg": {
     "mime": "image/jpeg"
+  },
+  "van_gogh_sunflowers.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "renaissance.jpeg": {
+    "mime": "image/jpeg"
   }
 }

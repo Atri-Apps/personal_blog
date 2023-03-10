@@ -21,4 +21,5 @@ def handle_event(at: Atri, req: Request, res: Response):
     This function is called whenever an event is received. An event occurs when user
     performs some action such as click button.
     """
-    pass
+    if at.like_btn.onClick:
+        pass
